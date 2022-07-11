@@ -6,3 +6,26 @@ ol,ul{list-style-type: none;}
 img{height: auto;}
 a{text-decoration: none;}
 hr{border:none; border-bottom: 1px solid #ddd}
+
+/* Navigazione */
+
+.header{
+    background-color: blue;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 10%;
+}
+
+.navbar{
+    display: flex;
+}
+
+.navbar li{
+    padding: 15px;
+}
+
+
+
+
