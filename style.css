@@ -29,7 +29,7 @@ hr{border:none; border-bottom: 1px solid #ddd}
 /* Cover */
 
 .cover{
-    background-color: lightblue;
+    background-color: #F55307;
     height: 80vh;
     display: flex;
     flex-direction: column;
@@ -42,6 +42,28 @@ button{
     margin: 5px;
     padding: 5px;
 }
+
+/* Contenitore */
+
+.container{
+    width: 1000px;
+    margin: 0 auto;
+    height: 500px;
+    background-color: #54FA20;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.elemento{
+    background-color: #eee;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 60px;
+    }
 
 
 
