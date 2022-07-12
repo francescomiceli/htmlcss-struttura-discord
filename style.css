@@ -55,15 +55,45 @@ button{
     align-items: center;
 }
 
-.elemento{
-    background-color: #eee;
-    height: 200px;
-    width: 200px;
+.container_2{
+    width: 1000px;
+    margin: 0 auto;
+    height: 500px;
+    background-color: #DEB504;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 60px;
-    }
+}
+
+.container_3{
+    width: 1000px;
+    margin: 0 auto;
+    height: 500px;
+    background-color: #E022D7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container_4{
+    width: 1000px;
+    margin: 0 auto;
+    height: auto;
+    background-color: #04DEAC;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container_4 button{
+    margin-top: 20px;
+}
+
+
+ img{
+        padding: 20px;
+}
 
 
 
