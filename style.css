@@ -41,6 +41,8 @@ button{
     display: inline;
     margin: 5px;
     padding: 5px;
+    background-color: #fff;
+    border: white 1px solid;
 }
 
 /* Contenitore */
@@ -84,6 +86,7 @@ button{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding-bottom: 40px;
 }
 
 .container_4 button{
